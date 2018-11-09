@@ -1,0 +1,41 @@
+    //密码服务
+    // var pwdurl = 'https://itss.rajax.me/acctMgrServ/resetpwd';//pro
+    // var pwdurl = 'https://10.192.33.10/acctMgrServ/resetpwd';//dev
+    var pwdurl = 'https://itssuat.rajax.me/acctMgrServ/resetpwd';//uat
+    //var pwdurl = 'https://itzzqa.rajax.me/acctMgrServ/resetpwd';//sit
+    //测试数据库
+      47.52.234.114
+      账号：elenet/testEleme@!!!
+      端口：3308
+    //AD域服务
+    // var adurl = 'https://itzzqa2.rajax.me/adServ';//dev
+
+
+    //北森分系统同步token
+    // var eleurl = 'https://sso.alpha.elenet.me';//dev
+    // var eleurl1 = 'https://sso.alpha.elenet.me';//dev
+    // var eleurl = 'https://sso.beta.elenet.me';//test
+    // var eleurl1 = 'https://sso.beta.elenet.me';//test
+    // var eleurl = 'https://sso.beta.elenet.me';//uat
+    // var eleurl1 = 'https://sso.beta.elenet.me';//uat
+    var eleurl = 'https://ssomdc.beta.elenet.me';//uat
+    var eleurl1 = 'https://ssomdc.ele.me';//uat
+    // var eleurl = 'https://sso.ele.me';//pro
+    // var eleurl1 = 'https://sso.elenet.me';//pro
+    //
+    // var elejira = 'http://172.16.10.31:8088/plugins/servlet/tokenregistry';//dev
+    // var elewiki = 'http://172.16.10.31:8888/plugins/servlet/tokenregistry';//dev
+    // var elejira = 'http://172.16.10.31:8088/plugins/servlet/tokenregistry';//test
+    // var elewiki = 'http://172.16.10.31:8888/plugins/servlet/tokenregistry';//test
+    var elejira = 'http://172.16.10.31:8088/plugins/servlet/tokenregistry';//uat
+    var elewiki = 'http://172.16.10.31:8888/plugins/servlet/tokenregistry';//uat
+    // var elejira = 'http://jira.ele.to:8088/plugins/servlet/tokenregistry';//pro
+    // var elewiki = 'http://wiki.ele.to:8090/plugins/servlet/tokenregistry';//pro
+
+    //PING下载
+    // var windowpin = "";//dev
+    // var macpin = "";//dev
+    // windowpin = "http://172.16.6.113:9000/updates/releases/test/win32/1.0.0.32/Pin.zip";//uat
+    // macpin = "http://172.16.6.113:9000/updates/releases/test/darwin/1.0.0.32/Pin.dmg";//uat
+    var windowpin = "http://imdown.rajax.me/downloadapp/ping.zip";//pro
+    var macpin = "http://imdown.rajax.me/downloadapp/ping.dmg";//pro
