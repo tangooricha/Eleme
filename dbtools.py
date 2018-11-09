@@ -8,7 +8,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 # 对外MYSQL服务器地址1
 #BASE_HOST=47.52.234.114
-#BASE_PORT=3306
+#BASE_PORT=3307 # 3306 3309 备用地址
 #BASE_DATABASE=elenet_data
 #BASE_USERNAME=root
 #BASE_PASSWORD=Eleme#123qwert
