@@ -1,0 +1,28 @@
+
+# 前往登录 https://melody.shop.ele.me/login
+# 测试店铺账号 sandbox_6259494
+# 测试店铺密码 fOk4FJsVFSa8
+
+http://e.waimai.meituan.com/logon
+
+wmxhxq1392 = xh465s312
+#1013_1580232212 = 1580033212
+
+
+http://e.waimai.meituan.com/v2/customer/commentSummary?wmPoiId=3613406&acctId=30714514
+
+#redis
+CACHE_DRIVER=redis
+SESSION_DRIVER=redis
+QUEUE_DRIVER=redis
+
+REDIS_HOST=127.0.0.1
+REDIS_PASSWORD=1qaz2wsx
+REDIS_PORT=6379
+
+# webssh.tools.elenet.me
+DB_HOST=47.52.234.114
+DB_PORT=3308
+DB_DATABASE=daphne_ng
+DB_USERNAME=daphne
+DB_PASSWORD=-[;.0pl,]
